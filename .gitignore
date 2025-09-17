@@ -1,0 +1,10 @@
+# Folders 
+MATLAB/
+Multibeam Data/
+README.pdf
+
+# System/Temp files
+Thumbs.db 
+*.tmp 
+~$*
+*.log
